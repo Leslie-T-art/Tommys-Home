@@ -1,0 +1,20 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/blog/page": "app/blog/page.js",
+  "/blog-2/page": "app/blog-2/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/home-video/page": "app/home-video/page.js",
+  "/home-slideshow/page": "app/home-slideshow/page.js",
+  "/onepage-slideshow/page": "app/onepage-slideshow/page.js",
+  "/onepage-image/page": "app/onepage-image/page.js",
+  "/portfolio-4/page": "app/portfolio-4/page.js",
+  "/portfolio-3/page": "app/portfolio-3/page.js",
+  "/portfolio-5/page": "app/portfolio-5/page.js",
+  "/onepage-video/page": "app/onepage-video/page.js",
+  "/publication/page": "app/publication/page.js",
+  "/page": "app/page.js",
+  "/portfolio/page": "app/portfolio/page.js",
+  "/portfolio-2/page": "app/portfolio-2/page.js",
+  "/resume/page": "app/resume/page.js"
+}
